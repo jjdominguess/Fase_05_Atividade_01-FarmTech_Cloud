@@ -24,9 +24,9 @@ João José Domingues Siva, William Xavier, Murílo Santana, William Ferreira
 
 ## 👩‍🏫 Professores:
 ### Tutor(a)
-- [Nome do Tutor]
+- Lucas Gomes
 ### Coordenador(a)
-- [Nome do Coordenador]
+- André Godoi
 
 ---
 
@@ -61,15 +61,22 @@ A abordagem baseada em Random Forest se mostrou a mais eficaz para prever o rend
 
 ---
 
+## Estimativas
+Foi realizado uma orçamento para o calculo de valor de hospodagem de máquinas para virtuais para armazenamento dos dados dos sensores da plantação, ambos medidos em Dolar($). Com duas máquinas nas configurações de 1v CPU, 2G Memória Ram, Volume de dados do usuário 50G e volume da raiz 80G e sendo sistema operacional Linux não necessitando de licença.
+- Com o armazenagem feita no EUA(N. da Virgínia) o valor de 576,00 USD por ano, então sendo R$ 48,00 USD mensais.
+- Com o armazenagem feita em São Paulo o valor de 936,00 USD por ano, então sendo R$ 78,00 USD mensais.
+
+- <a href="Utils/My AWS Estimate.pdf">Arquivo da estimativa com o Data Base nos EUA</a>.
+- <a href="Utils/My AWS Estimate- Data Base SP.pdf">Arquivo da estimativa com o Data Base no Brasil</a>.
 
 
 ## 📁 Estrutura de Pastas
 
-- <b>Assets/</b>: Imagens e recursos do projeto (ex: logo da FIAP).
-- <b>Scripts/</b>: Contém o notebook principal e o arquivo de dados.
-  - <b>crop_yield.csv</b>: Base de dados utilizada no projeto.
-  - <b>JoaoJose_rm564111_pbl_fase4.ipynb</b>: Notebook principal com todo o desenvolvimento, análises e modelos.
-- <b>README.md</b>: Guia e explicação geral sobre o projeto (este arquivo).
+- <b><a href="Assets/">Assets/</a></b>: Imagens e recursos do projeto (ex: logo da FIAP).
+- <b><a href="Scripts/">Scripts/</a></b>: Contém o notebook principal e o arquivo de dados.
+  - <b><a href="Scripts/crop_yield.csv">crop_yield.csv</a></b>: Base de dados utilizada no projeto.
+  - <b><a href="Scripts/JoaoJose_rm564111_pbl_fase4.ipynb">JoaoJose_rm564111_pbl_fase4.ipynb</a></b>: Notebook principal com todo o desenvolvimento, análises e modelos.
+- <b><a href="README.md">README.md</a></b>: Guia e explicação geral sobre o projeto (este arquivo).
 
 
 ## 🔧 Como executar o código
