@@ -65,9 +65,12 @@ A abordagem baseada em Random Forest se mostrou a mais eficaz para prever o rend
 Foi realizado uma orçamento para o calculo de valor de hospodagem de máquinas para virtuais para armazenamento dos dados dos sensores da plantação, ambos medidos em Dolar($). Com duas máquinas nas configurações de 1v CPU, 2G Memória Ram, Volume de dados do usuário 50G e volume da raiz 80G e sendo sistema operacional Linux não necessitando de licença.
 - Com o armazenagem feita no EUA(N. da Virgínia) o valor de 576,00 USD por ano, então sendo R$ 48,00 USD mensais.
 - Com o armazenagem feita em São Paulo o valor de 936,00 USD por ano, então sendo R$ 78,00 USD mensais.
+  - A escolha mais viável caso exista alguma restrição corporativa de envio de dados para outros país, porem há o ônus
+    de valor, que seria em torno de 60% mais caro, tendo as mesmas configurações de hardware.
 
 - <a href="Utils/My AWS Estimate.pdf">Arquivo da estimativa com o Data Base nos EUA</a>.
 - <a href="Utils/My AWS Estimate- Data Base SP.pdf">Arquivo da estimativa com o Data Base no Brasil</a>.
+
 
 
 ## 📁 Estrutura de Pastas
