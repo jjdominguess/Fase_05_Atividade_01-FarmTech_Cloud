@@ -48,6 +48,8 @@ O desenvolvimento seguiu as etapas principais de um projeto de Machine Learning:
   - Treinamento e avaliação de cinco algoritmos de regressão: Regressão Linear, Random Forest, SVR, Decision Tree e KNeighbors.
   - Utilização de GridSearchCV para comparação e escolha do melhor modelo.
   - Aplicação de PCA para redução de dimensionalidade.
+- [Link YouTube](https://youtu.be/hokThCEBF-U)
+  - Explicação com vídeo de demonstração
 
 
 ## 📊 Resultados
